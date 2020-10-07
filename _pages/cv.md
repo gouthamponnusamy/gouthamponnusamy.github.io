@@ -13,7 +13,7 @@ Work experience
 ======
 * November'2014 - September'2020: Junior Research Fellow
   * PARK Research Centre, Coimbatore, India
-  **Duties included:** 1. Design of an ejector for lowering pressure below ambient in the test chamber
+  * **Duties included:** 1. Design of an ejector for lowering pressure below ambient in the test chamber
                      2. Study of the flow field under the hood in the automobiles and compare the same flow field with the battle tank engine bay flow field.
                      3. *"Institute Coordinator - National Board of Accriditation”* for the Department of Aeronautical Engineering, PARK College of Engineering & Technology, Coimbatore, India
                      4. Lectures on *“Out of Syllabus”* topics in subjects like Gas Dynamics and Turbo-machinery for Undergraduate students of Aeronautical Engineering
@@ -21,7 +21,7 @@ Work experience
 
 * June'2011 - August'2012: Research Assistant
   * PARK Research Centre, Coimbatore, India
-  **Duties included:** 1. Exploration of boundary layer over turbine blades in the low Reynolds number region both experimentally and analytically using the tool ANSYS Fluent
+  * **Duties included:** 1. Exploration of boundary layer over turbine blades in the low Reynolds number region both experimentally and analytically using the tool ANSYS Fluent
                      2. Component modelling using CATIA V5 modelling tool
                      3. Assisting the Department of Aeronautical Engineering Professors in Fluid Dynamics and Gas Turbine lectures
   

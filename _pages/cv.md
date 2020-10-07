@@ -9,32 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November'2014 - September'2020: Junior Research Fellow
+  * PARK Research Centre, Coimbatore, India
+  **Duties included:** 1. Design of an ejector for lowering pressure below ambient in the test chamber
+                     2. Study of the flow field under the hood in the automobiles and compare the same flow field with the battle tank engine bay flow field.
+                     3. *"Institute Coordinator - National Board of Accriditation”* for the Department of Aeronautical Engineering, PARK College of Engineering & Technology, Coimbatore, India
+                     4. Lectures on *“Out of Syllabus”* topics in subjects like Gas Dynamics and Turbo-machinery for Undergraduate students of Aeronautical Engineering
+                     5. Design and development of an afterburner without flame-holders, i.e., the possibility of implementing the Prime & trigger method of combustion by completely removing the V-Gutter
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June'2011 - August'2012: Research Assistant
+  * PARK Research Centre, Coimbatore, India
+  **Duties included:** 1. Exploration of boundary layer over turbine blades in the low Reynolds number region both experimentally and analytically using the tool ANSYS Fluent
+                     2. Component modelling using CATIA V5 modelling tool
+                     3. Assisting the Department of Aeronautical Engineering Professors in Fluid Dynamics and Gas Turbine lectures
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python 3
+* CFD Tools
+  * OpenFOAM
+  * Ansys Fluent
+* Meshing
+  * snappyHexMesh
+  * Salome
+  * GMSH
+* Modelling
+  * Catia V5
+  * FreeCAD
+* Cantera (Basic Level)
+* Mathematica (Basic Level)
+
+Education
+======
+* PG insert here
+* Bachelor of Engineering (B.E.,); Anna University, Tamilnadu, India; 2007–2011
+
+Professional Training
+======
+* 2019: Short Term Course *“Advanced Computational Techniques for Fluid Dynamics: Grid-Free & Immersed Boundary Layer Methods with Applications”*; by the department of Aerospace Engineering and Applied Mechanics, Indian Institute of Technology Madras; Tamilnadu, India
+* 2010–Masters Diploma in Aircraft Designing (MDAD), CAD Solutions Pvt Ltd, Coimbatore, India; *Contents: Aircraft components –Designing –Modelling –Drafting –Structural and Thermal Analysis –Design Optimisation –CFD Simulations for various Aerospace Applications.
+
+Teaching Experience
+======
+* PARK College of Engineering & Technology, Coimbatore, India (Undergraduates Students - Aeronautical Engineering)
+  * 2018–2019: Computational Fluid Dynamics
+  * 2017–2018: Finite Element Methods(Tutorials & Part Syllabus)
+  * 2014–2020: Gas Turbine Propulsion (Off-Syllabus topics)
+  * 2014–2015: Fluid Mechanics (Tutorial Lectures)
+  * 2012–2013: Engineering Mechanics (Tutorial Lectures)
+  * 2011–2012: Strength of Materials Laboratory (Laboratory practices training)
+
+Other Interests
+======
+* Occasional Reader
+* News (Politics, Human Interest & Science)
+* Environmental Sustainability
 
 Publications
 ======
@@ -56,4 +87,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ....

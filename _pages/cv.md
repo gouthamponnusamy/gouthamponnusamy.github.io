@@ -67,6 +67,13 @@ Other Interests
 * News (Politics, Human Interest & Science)
 * Environmental Sustainability
 
+Laguages
+======
+* Tamil (Mother Tongue)
+* English (Fluent)
+* Malayalam (Speaking)
+* Hindi (**R & W**: Intermediate, **S**: Basic)
+
 Publications
 ======
   <ul>{% for post in site.publications %}

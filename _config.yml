@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Goutham Ponnusamy"
+locale                   : "en-GB"
+title                    : "GP"
 title_separator          : "-"
 name                     : &name "Goutham Ponnusamy"
 description              : &description "Junior Research Fellow at PARK Research Centre, Fluid Dynamics (CFD & Experimental) - Turbulence, Combustion, Two-phase flows, and H2 Fuel"

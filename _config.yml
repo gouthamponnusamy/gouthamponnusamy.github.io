@@ -9,7 +9,7 @@
 locale                   : "en-GB"
 title                    : "GP"
 title_separator          : "-"
-name                     : &name "Goutham Ponnusamy"
+name                     : &name "GP"
 description              : &description "Junior Research Fellow at PARK Research Centre, Fluid Dynamics (CFD & Experimental) - Turbulence, Combustion, Two-phase flows, and H2 Fuel"
 url                      : https://gouthamponnusamy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

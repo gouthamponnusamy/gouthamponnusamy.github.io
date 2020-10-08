@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Home"
+title                    : "GP"
 title_separator          : "-"
 name                     : &name "GP"
 description              : &description "Junior Research Fellow at PARK Research Centre, Fluid Dynamics (CFD & Experimental) - Turbulence, Combustion, Two-phase flows, and H2 Fuel"
